@@ -207,7 +207,5 @@ marimo/_lsp/
 __marimo__/
 
 # Project
-data/
-logs/
-cred.py
+
 
