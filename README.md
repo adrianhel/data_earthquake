@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/python-3.12.0-blue?logo=pypi)](https://www.python.org/downloads/release/python-3120/)
 [![Metabase](https://img.shields.io/badge/metabase-0.52.13-blue)](https://www.metabase.com/docs/latest/installation-and-operation/installing-metabase)
 [![Postgres](https://img.shields.io/badge/postgres-13.0-blue?logo=postgresql)](https://www.postgresql.org/ftp/source/v13.0/)
-[![DuckDB](https://img.shields.io/badge/duckDB-1.2.2-blue)](https://duckdb.org/docs/installation/?version=stable&environment=cli&platform=macos&download_method=direct)
 [![Airflow](https://img.shields.io/badge/airflow-2.10.5-blue?logo=airbnb)](https://airflow.apache.org/docs/apache-airflow/2.10.5/start.html)
 
 ### [Назад в Содержание ⤶](https://github.com/adrianhel/contents)
