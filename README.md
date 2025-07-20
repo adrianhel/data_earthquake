@@ -22,9 +22,9 @@ ___
 - [Описание полей API](https://earthquake.usgs.gov/data/comcat/index.php)
 
 ## Структура проекта
-- [Data Governance](src/data_governance.md)
-- [Создание проекта](src/project_create.md)
-- [Заключение](src/conclusion.md)
+- [Data Governance](chapters/data_governance.md)
+- [Создание проекта](chapters/project_create.md)
+- [Заключение](chapters/conclusion.md)
 
 ## Используемые инструменты
 Все используемые в проекте инструменты можно посмотреть в шапке проекта под заголовком (бэйджы).
