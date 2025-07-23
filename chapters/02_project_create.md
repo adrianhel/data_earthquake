@@ -13,10 +13,11 @@ pip list
 ```
 
 ```bash
-cd src
-```
-
-```bash
 pip install -r requirements.txt
 ```
 
+Создать файл .env и добавить туда строчку `AIRFLOW_UID=50000`
+
+```bash
+docker compose up -d
+```
